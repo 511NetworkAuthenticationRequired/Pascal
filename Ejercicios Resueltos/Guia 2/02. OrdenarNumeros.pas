@@ -1,5 +1,5 @@
 // Escribir un algoritmo donde se ingresan 3 números distintos y se deben ordenar de menor a mayor, e imprimir por pantalla.
-program ej3;
+program OrdenarNumeros;
     var
         vec: array [1..3] of integer;
         i, j, k, x, y, aux: integer;
