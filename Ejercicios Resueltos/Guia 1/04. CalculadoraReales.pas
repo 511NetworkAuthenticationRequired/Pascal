@@ -1,5 +1,5 @@
 // 1) Escribir un programa en pascal que dado dos números reales realice la suma, resta, multiplicación, división entera y resto de los mismos. Los numero son: X = 55 e Y = 30
-program ej1;
+program CalculadoraReales;
 var
     x, y: real;
 begin
