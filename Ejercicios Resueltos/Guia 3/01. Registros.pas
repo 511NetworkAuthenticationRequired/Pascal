@@ -1,5 +1,5 @@
 // Usando el tipo de dato Record, cargar 3 libros en memoria y después realizar un listado de todos los libros. De los libros se deben almacenar: El título, el nombre del autor, un breve resumen y el id del libro.
-program ej1;
+program Registros;
     type
         formato_libro = record
             titulo: string[50];
