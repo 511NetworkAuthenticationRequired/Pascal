@@ -8,7 +8,7 @@ Entonces: 4 es el primer digito del usuario, es par así que tenemos que multipl
 5 x 2 + 3 x 2 + 6 x 2 + 2 x 2 = 32
 Como 32 es mayor a 21 (los dos últimos dígitos del usuario) la contraseña es válida.
 Se debe hacer las validaciones necesarias y mostrar por pantalla : “contraseña válida” o “contraseña inválida”.}
-program validacion;
+program Validar;
     var
         usuario, contrasena: string;
         menos_significativo, suma, x, multiplicador: longint;
