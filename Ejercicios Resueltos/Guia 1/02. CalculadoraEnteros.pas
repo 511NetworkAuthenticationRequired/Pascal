@@ -1,5 +1,5 @@
 // 2) Escribir un programa en pascal que dado dos números enteros (x e y) realice la suma, resta, multiplicación, división entera y resto de los mismos. Tanto x como y deben ser ingresados por el usuario
-program ej2;
+program CalculadoraEnteros;
 var
   x, y: integer;
 begin
