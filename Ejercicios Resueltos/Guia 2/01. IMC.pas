@@ -5,7 +5,7 @@ La altura puede ser de 10 cm a 240 cm, la edad puede ser de 4 a 140 años y el P
 Según el valor que da el calculo podemos tener:
 -Para los mayores o iguales a 20 años, el IMC menor a 19 es bajo peso, entre 19 y 24 es normal, entre 25 y 29 es sobrepeso, y más de 30 es obeso.
 -Para menores de 20 años el IMC es: menos de 14 es bajo peso, entre entre 14 y 19 es normal, entre 20 y 24 es sobrepeso y más de 25 es obeso. }
-program indice; // habia hecho con reales el peso y la altura pero se hacia mas largo asique termine modificando todo para poder ser feliz
+program IMC; // habia hecho con reales el peso y la altura pero se hacia mas largo asique termine modificando todo para poder ser feliz
 var
     altura, peso, edad, IMC: longint;
     resultado: string;
