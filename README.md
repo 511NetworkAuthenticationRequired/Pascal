@@ -1,2 +1,2 @@
 # Pascal
-Ejercicios resueltos en Pascal (.pas)
+Ejercicios resueltos en Pascal (.pas).
