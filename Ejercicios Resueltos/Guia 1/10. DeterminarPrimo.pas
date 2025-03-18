@@ -1,5 +1,5 @@
 // Determinar si un número es primo
-program ej10;
+program DeterminarPrimo;
 var
     num, aux: longint;
     esPrimo: boolean;
