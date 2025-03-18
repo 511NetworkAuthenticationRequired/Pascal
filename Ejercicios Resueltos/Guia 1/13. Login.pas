@@ -1,6 +1,6 @@
 { Se pide crear un pequeño login para usuarios, el usuario tiene que pasar su nombre y su contraseña, el sistema tiene que comparar contra unos valores previamente cargados y verificar si son o no iguales.
 No se debe muestrar el valor de la contraseña cuandos se escribe por el teclado. Se debe permitir que el usuario tenga la posibilidad de ingresar la contraseña 3 veces. }
-program ej13;
+program Login;
 uses crt;
     const
         user = 'admin';
