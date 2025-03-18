@@ -15,16 +15,16 @@ program Validar;
     function Convertir(n: char): longint;
     begin
         case n of
-            '0': Convertir := 0;
-            '1': Convertir := 1;
-            '2': Convertir := 2;
-            '3': Convertir := 3;
-            '4': Convertir := 4;
-            '5': Convertir := 5;
-            '6': Convertir := 6;
-            '7': Convertir := 7;
-            '8': Convertir := 8;
-            '9': Convertir := 9;
+            '0': Convertir:= 0;
+            '1': Convertir:= 1;
+            '2': Convertir:= 2;
+            '3': Convertir:= 3;
+            '4': Convertir:= 4;
+            '5': Convertir:= 5;
+            '6': Convertir:= 6;
+            '7': Convertir:= 7;
+            '8': Convertir:= 8;
+            '9': Convertir:= 9;
             else 
                 writeln('Error.')
         end;
